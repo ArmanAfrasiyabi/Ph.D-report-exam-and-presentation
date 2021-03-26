@@ -1,4 +1,4 @@
-## Talks 
+## Presentations 
 Here are the presentations of our works. 
 **2020**
 - **Associative Alignment for Few-shot Image Classification.**\
